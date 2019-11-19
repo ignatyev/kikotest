@@ -2,6 +2,7 @@
 
 There are 2 parties to the service:
 New Tenants who are moving in
+
 Current Tenant who lives in a flat
 
 **Service requirements:**
